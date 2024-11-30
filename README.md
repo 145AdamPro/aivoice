@@ -1,5 +1,5 @@
 # AI Voice Assistant
-
+Add your groq api in .env
 A real-time voice assistant that can interact with your computer using the Groq API for natural language processing.
 
 ## Features
